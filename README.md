@@ -4,7 +4,7 @@
 This project demonstrates a complete **Sales Performance Analysis** using **Power BI**, **SQL**, and **Excel**.  
 It provides a comprehensive view of sales trends, budget comparison, top-performing customers and products, and geographic distribution of sales data.
 
----
+
 
 ## ⚙️ Tools & Technologies
 - **Power BI Desktop** – dashboard design and visualization  
@@ -12,12 +12,12 @@ It provides a comprehensive view of sales trends, budget comparison, top-perform
 - **Excel** – budget and data input  
 - **DAX (Data Analysis Expressions)** – for KPI and calculated measures  
 
----
+
 
 ## 🔗 Layihə Linki
 - <a href=https://github.com/EsmerMemmedli/Sales-Management-Project/blob/main/Sales%20Performance%20Dashboard.pbix>Layihə</a>
 
----
+
 
 ## 📊 İstifadə Olunan Databaza
 - <a href=https://github.com/EsmerMemmedli/Sales-Management-Project/blob/main/SalesBudget.xlsx>Dataset</a>
@@ -79,7 +79,7 @@ Focuses on product-level analysis with category-wise performance and monthly tra
 
 ![Image Alt Text](https://github.com/EsmerMemmedli/Sales-Management-Project/blob/main/Sales_project%203.png)
 
----
+
 
 ## 📈 Key Insights
 - **Total Sales:** 22.2M  
@@ -89,7 +89,7 @@ Focuses on product-level analysis with category-wise performance and monthly tra
 - **Top Customer:** *Jordan Turner*  
 - **Top Regions:** *Europe* and *North America*  
 
----
+
 
 ## 🧠 Purpose
 The goal of this project is to help businesses:
