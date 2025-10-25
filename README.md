@@ -17,11 +17,6 @@ It provides a comprehensive view of sales trends, budget comparison, top-perform
 ## 🔗 Project link
 - <a href=https://github.com/EsmerMemmedli/Sales-Management-Project/blob/main/Sales%20Performance%20Dashboard.pbix>Project</a>
 
-
-
-## 📊 Dataset
-- <a href=https://github.com/EsmerMemmedli/Sales-Management-Project/blob/main/SalesBudget.xlsx>Dataset</a>
-
 ---
 
 ## 🧱 Project Structure
